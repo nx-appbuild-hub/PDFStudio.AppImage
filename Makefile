@@ -3,7 +3,7 @@ PACKED := $(call rwildcard,build/opt/pdfstudio2019/jre/lib,*.jar.pack)
 
 SOURCE="https://download.qoppa.com/pdfstudio/PDFStudio_linux64.deb"
 DESTINATION="build.deb"
-OUTPUT="PDFStudioStandart.AppImage"
+OUTPUT="PDFStudio.AppImage"
 
 .PHONY: all
 all: pack clean
