@@ -1,0 +1,2 @@
+# PDFStudioViewer.AppImage
+# PDFStudioStandart.AppImage
